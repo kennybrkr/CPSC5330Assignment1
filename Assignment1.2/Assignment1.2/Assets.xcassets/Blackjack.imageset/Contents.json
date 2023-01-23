@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "depositphotos_5687838-stock-photo-casino-chip-background.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "depositphotos_5687838-stock-photo-casino-chip-background@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "depositphotos_5687838-stock-photo-casino-chip-background@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
